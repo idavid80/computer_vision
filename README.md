@@ -1,5 +1,5 @@
-# computer_vision
-Proyecto básico sobre computer vision.
+# Computer vision
+Proyecto básico sobre computer vision utilizando OpenCV.
 Este proyecto incluye una carpeta llamada ***YOLOv8***, que contiene cinco archivos relacionados con un algoritmo de detección de objetos en tiempo real. Este algoritmo está implementado utilizando la librería Ultralytics.
 
 ## Requisitos
